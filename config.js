@@ -1,7 +1,7 @@
 const { ButtonStyle } = require('discord.js')
 module.exports = {
   token:
-    "MTM4MTYzNTcyMTYwNDg5MDY5NQ.GCJTtG.PIRYiLp3v77FMge3J72rw4-RF18WcjhbXHQoK0", // โทเคนบอท
+    "MTM4MTYzNTcyMTYwNDg5MDY5NQ.G2QBuC.t6ZQAV_EJOzZbE4nqq9zUOjLjRa0KJTr3X9MNQ", // โทเคนบอท
 
   roleAdmin: "1292853582877556747", //ยศแอดมิน
   guild: ["1277228986266681407"], //เซิฟเวอร์
